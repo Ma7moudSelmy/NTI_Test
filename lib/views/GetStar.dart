@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:nti/views/Login.dart';
-import 'package:nti/views/Register.dart';
+import 'package:nti/Login/Login.dart';
+import 'package:nti/Register/Register.dart';
 
 class Getstar extends StatelessWidget {
   @override

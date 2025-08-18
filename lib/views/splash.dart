@@ -19,7 +19,7 @@ class _SplahState extends State<Splah> {
     await Future.delayed(const Duration(seconds: 3));
     Navigator.pushReplacement(
       context,
-      MaterialPageRoute(builder: (context) => const Sss()),
+      MaterialPageRoute(builder: (context) => const Splash1()),
     );
   }
 

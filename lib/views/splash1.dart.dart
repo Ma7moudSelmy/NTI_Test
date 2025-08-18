@@ -3,8 +3,8 @@ import 'package:flutter_svg/svg.dart';
 import 'package:nti/views/GetStar.dart';
 import 'package:nti/views/splash2.dart';
 
-class Sss extends StatelessWidget {
-  const Sss({super.key});
+class Splash1 extends StatelessWidget {
+  const Splash1({super.key});
 
   @override
   Widget build(BuildContext context) {
